@@ -21,4 +21,5 @@ int main()
 		/* Incremento de 20 °f */
 		fahr = fahr + step;
 	}
+	return(0);
 }
